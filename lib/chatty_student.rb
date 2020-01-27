@@ -9,6 +9,9 @@ end
 
   def raise_hand
     super
+    string = "Pick me!"
+    string.times(10)
+  
 
 
     end
