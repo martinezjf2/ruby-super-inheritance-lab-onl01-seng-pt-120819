@@ -9,7 +9,7 @@ end
 
   def raise_hand
     super
-    p "Pick me!" * 10
+    "Pick me!" * 10
 
 
 
