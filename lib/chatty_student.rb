@@ -4,7 +4,7 @@ class ChattyStudent < Student
 
 def hello
   super
-  "How are you doing today? I'm okay,
+  puts "How are you doing today? I'm okay,
    but I'm kind of tired. Did you watch
    The Walking Dead last night? You didn't?!
    Oh man, it was so crazy!
@@ -14,7 +14,8 @@ def hello
 end
 
   def raise_hand
-  #   super
+    super
+
 
     end
 
